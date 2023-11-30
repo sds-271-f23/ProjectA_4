@@ -24,5 +24,7 @@ To visualize the data and the fitted line, use the plot_data_and_fit method
 
 altitude_temp_relationship.plot_data_and_fit()
 
+# This is Cameron's Copy
+
 
 
