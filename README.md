@@ -1,3 +1,5 @@
+# This is my copy - Sabrina Hatch
+
 # SDS271-Lab7 Project A Fit a curve and plot
 The class is designed to analyze the relationship between altitude and temperature based on input data provided in a CSV file. The class utilizes the pandas library for data manipulation and the scipy.optimize.curve_fit function for curve fitting.
 
